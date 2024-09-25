@@ -3,7 +3,6 @@ Full Name:Jyoti Basavaraj Kadakol
 USN:1WT23CS021
 Semester:Third
 Section:B
-Subject Code: BCs358C
-Academic Year:2024-2025
-Mobile No:8904081012
-Email:jyotibkadakol@gmail.com 
+Branch:Computer Science and Engineering
+year of Admission:2023
+Collage Name:GITW
