@@ -6,3 +6,8 @@ Section:B
 Branch:Computer Science and Engineering
 year of Admission:2023
 Collage Name:GITW
+SSLC:SGIP school
+PUC:OXFORD pu collage
+UG Degree:B.E-Computer Science and Engineering
+PG Degree:M.Tech-Manufacturing
+PhD Degree:Materials Science
